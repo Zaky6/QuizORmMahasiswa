@@ -6,7 +6,7 @@ import androidx.room.Query;
 import androidx.room.Update;
 
 import java.util.List;
-
+//test
 @Dao
 public interface MahasiswaDAO {
     @Insert

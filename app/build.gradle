@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
 }
-
+//test
 android {
     namespace 'com.example.quizormmahasiswa'
     compileSdk 34
